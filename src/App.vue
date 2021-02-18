@@ -152,7 +152,7 @@ html{
 1. [百脑科技商城](https://github.com/panyongkang/gitRepository/tree/master/EStore-master)
 2. [电子购物商城项目](https://github.com/panyongkang/gitRepository/tree/master/e-shop)
 3. [基于Vue图书管理小项目](https://github.com/panyongkang/vueProjects)
-4. [一个会动的简历](https://gitee.com/zhousiwei/anires)
+4. [个人动态简历项目](https://github.com/panyongkang/anires)
 5. [向阳榆木的博客网站](https://github.com/panyongkang/panyongkang.github.io)
 
 链接
@@ -168,7 +168,7 @@ html{
 * 联系QQ：**2549315545** | 微信：**18385763177**
 * 主要涉及技术：**Java后端开发**、**资源整合**、**公众号开发**、**博客订制**、**Live 2D**
 
-> 如果你喜欢这个效果，Fork [我的项目](https://gitee.com/zhousiwei/anires)，打造你自己的简历！
+> 如果您喜欢这个效果，欢迎Fork [我的项目](https://github.com/panyongkang/anires)，打造您自己的简历！
 `
     };
   },

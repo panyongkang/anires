@@ -25,9 +25,10 @@ export default {
       fullStyle: [
         `/*
 * Inspired by http://strml.net/
-* 源码地址 https://gitee.com/zhousiwei/anires
+* 源码地址 https://github.com/panyongkang/anires
 * 大家好，我是向阳榆木。
-* 我来写一份简历！
+* 过完年了，好多公司开始招聘，你是不是也在准备简历呀。
+* 说做就做，那我也来写一份简历吧！
 */
 
 /* 给所有元素加上过渡效果 */
@@ -36,7 +37,8 @@ export default {
 }
 /* 设置背景颜色 */
 html {
-  color: rgb(222,222,222); background: rgb(0,43,54);
+  color: rgb(222,222,222);
+  background: #b3b6b5;
 }
 
 /* 设置边框 */
@@ -46,8 +48,9 @@ html {
   margin: .5em;
   overflow: auto;
   width: 45vw; 
-  height: 90vh;
+  height: 95vh;
   background: rgb(42 12 206);
+  border-radius: 8px;
 }
 /* 代码高亮 */
 .token.selector{ color: rgb(133,153,0); }
@@ -60,7 +63,9 @@ html{
   perspective: 1000px;
 }
 .styleEditor {
-  position: fixed; left: 0; top: 0;
+  position: fixed; 
+  left: 0; 
+  top: 20px;
   -webkit-transition: none;
   transition: none;
   -webkit-transform: rotateY(10deg) translateZ(-100px) ;
@@ -70,14 +75,16 @@ html{
 /* 准备一个编辑器 */
 .resumeEditor{
   position: fixed; 
-  right: 0; top: 0;
+  right: 0;
+  top: 15px;
   margin: .5em;
   width: 48vw; 
-  height: 90vh;
+  height: 93vh;
   box-shadow: 0px 0px 10px 5px #aaa;
   background: white; 
   color: #222;
   overflow: auto;
+  border-radius: 7px;
 }
 /* 开始写简历 */
 `,

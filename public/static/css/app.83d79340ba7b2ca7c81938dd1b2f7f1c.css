@@ -58,7 +58,7 @@ body{
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #7605ff;
+  background-color: #12c202;
   background-image: -webkit-linear-gradient(
     45deg,
     rgba(255, 255, 255, 0.4) 25%,
@@ -95,4 +95,4 @@ html[data-v-53c8d54c] {
   box-sizing: border-box;
 }
 
-/*# sourceMappingURL=app.0748b301b9eaa1208f5cda3180407820.css.map*/
+/*# sourceMappingURL=app.83d79340ba7b2ca7c81938dd1b2f7f1c.css.map*/
